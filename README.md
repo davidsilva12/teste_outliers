@@ -50,9 +50,18 @@ npm install
 npm run dev
 Acessar Aplicação
 
-Frontend: http://localhost:3000
-
 API: http://localhost:8000/api/fundos/
+
+Passo a Passo
+Frontend
+
+cd frontend  # Acesse a pasta do frontend
+npm install  # Instala todas as dependências do package.json
+
+( Instalar arquivos das pastas (vazias aqui) : node_modules, .ext )
+
+npm run dev  # Inicia o servidor de desenvolvimento
+Acesse: http://localhost:3000
 
 Como Testei/Validei
 

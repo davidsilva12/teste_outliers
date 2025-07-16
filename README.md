@@ -70,7 +70,6 @@ Testes no Backend
 - bash
 - python manage.py test fundos
 - Coleção de testes cobrindo todos os endpoints
-- Validação de status codes e responses
 
 Testes no Frontend
 
